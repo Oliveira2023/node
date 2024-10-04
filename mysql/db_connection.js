@@ -5,7 +5,7 @@ var mysql = require('mysql2');
         host: "127.0.0.1",
         user: "root",
         password: "beluca18",
-        database: "node_w3c"
+        database: "node_createdb"
     });
 
     con.connect(function(err) {
